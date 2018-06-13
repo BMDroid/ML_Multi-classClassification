@@ -45,12 +45,12 @@ To avoid the overfitting, we need to implemented the regularized the cost functi
 
 **Regularized cost function**:
 
-<p align="center">  <img src="https://github.com/BMDroid/ML_Multi-classClassification/blob/master/figs/cost_func_r.png" width="45%">
+<p align="center">  <img src="https://github.com/BMDroid/ML_Multi-classClassification/blob/master/figs/cost_func_r.png" width="55%">
 </p>   
 
 and the **regularized gradient**:
 
-<p align="center">  <img src="https://github.com/BMDroid/ML_Multi-classClassification/blob/master/figs/gradient_r.png" width="30%">
+<p align="center">  <img src="https://github.com/BMDroid/ML_Multi-classClassification/blob/master/figs/gradient_r.png" width="45%">
 </p>
 
 ### 4. One-vs-all
