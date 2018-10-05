@@ -1,4 +1,4 @@
-# ML_Multi-classClassification
+# ML_Multi-class_Classification
 
 In this project, I implemented the one-vs-all logistic regression to recognize the hand-written digits.
 
